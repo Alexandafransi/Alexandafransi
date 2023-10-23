@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alexandafransi
 - 👀 I’m interested in Software development
-- 🌱 I’m currently doing mobile development but also i can do web developmen...
+- 🌱 I’m currently doing mobile development and  web development...
 
 
 <!---
